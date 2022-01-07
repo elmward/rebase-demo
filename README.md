@@ -4,12 +4,14 @@
 
  - what problem does squash/rebase solve?
    - hard to navigate/interpret commit log
+   - transient commits from PRs
    - undeployable commits
  - rebasing onto main/trunk/master
    - conflicts
    - force pushing
    - --force-with-lease
  - squash/interactive rebase
+   - fixup commits
    - combining commits
    - editing commit messages
    - reordering commits
