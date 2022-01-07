@@ -6,14 +6,14 @@
    - hard to navigate/interpret commit log
    - transient commits from PRs
    - undeployable commits
- - rebasing onto main/trunk/master
-   - conflicts
-   - force pushing
-   - --force-with-lease
  - squash/interactive rebase
    - fixup commits
    - combining commits
    - editing commit messages
    - reordering commits
+ - rebasing onto main/trunk/master
+   - conflicts
+   - force pushing
+   - --force-with-lease
  - preserving a PR link
  - using GitHub's squash/rebase merges (UI or gh cli)
